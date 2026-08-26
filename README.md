@@ -15,6 +15,10 @@ I build practical solutions for intelligent automation, enterprise collaboration
 
 ## Featured Projects
 
+### Agentic AI
+
+- [Agentic RAG Platform](https://github.com/VinothInnovationHub/agentic-rag-platform)
+
 ### Microsoft 365 and SharePoint
 
 - [SPFx](https://github.com/VinothInnovationHub/SPfx)
