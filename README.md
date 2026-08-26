@@ -19,6 +19,10 @@ I build practical solutions for intelligent automation, enterprise collaboration
 
 - [Agentic RAG Platform](https://github.com/VinothInnovationHub/agentic-rag-platform)
 
+### Enterprise AI Solutions
+
+- [Copilot Studio, Azure Functions, Azure Databricks, Retail IQ Agent, and Databricks Genie](https://github.com/VinothInnovationHub/enterprise-ai-solutions)
+
 ### Microsoft 365 and SharePoint
 
 - [SPFx](https://github.com/VinothInnovationHub/SPfx)
