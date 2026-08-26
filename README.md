@@ -1,15 +1,16 @@
 # Vinoth Innovation Hub
 
-Microsoft 365, SharePoint, Agentic AI, cloud architecture, and digital innovation.
+Designing secure, intelligent enterprise solutions with Microsoft 365, SharePoint, Agentic AI, Azure AI Foundry, and cloud-native architecture.
+
+Transforming business challenges into scalable AI-powered experiences, automation platforms, and data-driven solutions for the modern enterprise.
 
 ## Focus Areas
 
-- Agentic AI and LLM applications
-- Microsoft 365 and SharePoint
-- Copilot and business automation
-- Python and backend engineering
-- React and full-stack development
-- Cloud and enterprise architecture
+- Microsoft 365 and SharePoint architecture
+- Agentic AI, Copilot, and multi-agent systems
+- Azure AI Foundry and enterprise AI solutions
+- Cloud architecture, data platforms, and automation
+- Python, React, FastAPI, and full-stack engineering
 
 ## Featured Projects
 
