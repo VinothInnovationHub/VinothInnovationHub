@@ -2,8 +2,6 @@
 
 Microsoft 365, SharePoint, Agentic AI, cloud architecture, and digital innovation.
 
-I build practical solutions for intelligent automation, enterprise collaboration, modern applications, and developer productivity.
-
 ## Focus Areas
 
 - Agentic AI and LLM applications
@@ -21,25 +19,8 @@ I build practical solutions for intelligent automation, enterprise collaboration
 
 ### Enterprise AI Solutions
 
-- [Copilot Studio, Agentic-AI, MCP, Azure AI foundry,Single & Multi Agent, Azure Functions, Azure Databricks, Retail IQ Agent, and Databricks Genie](https://github.com/VinothInnovationHub/enterprise-ai-solutions)
+- [Copilot Studio, Agentic AI, MCP, Azure AI Foundry, Single and Multi-Agent, Azure Functions, Azure Databricks, Retail IQ Agent, and Databricks Genie](https://github.com/VinothInnovationHub/enterprise-ai-solutions)
 
-### Microsoft 365 and SharePoint
+### AI Engineering Learning
 
-- [SPFx](https://github.com/VinothInnovationHub/SPfx)
-- [SPFx Full Solution](https://github.com/VinothInnovationHub/SPfx-Full-Solution)
-- [SPFx Banner Message Solution](https://github.com/VinothInnovationHub/SPfx-Banner-Message-Solution)
-- [PnP PowerShell Automation](https://github.com/VinothInnovationHub/PnPPowerShell-Automation)
-
-### Automation
-
-- [Disable Power Apps and Power Automate](https://github.com/VinothInnovationHub/DisablePowerAppsandPowerAutomate)
-- [PnP SharePoint Online Site Update Automation](https://github.com/VinothInnovationHub/PnP-SPOSiteUpdateAutomation)
-
-## Technology
-
-`Microsoft 365` `SharePoint` `SPFx` `PowerShell` `Python` `FastAPI` `React` `Azure` `Copilot` `Agentic AI`
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/vinothkumarvijayabalan/)
-- [GitHub](https://github.com/VinothInnovationHub)
+- [AI Engineering Learning Hub](https://github.com/VinothInnovationHub/ai-engineering-learning-hub)
