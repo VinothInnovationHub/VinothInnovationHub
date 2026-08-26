@@ -21,7 +21,7 @@ I build practical solutions for intelligent automation, enterprise collaboration
 
 ### Enterprise AI Solutions
 
-- [Copilot Studio, Agentic-AI,MCP,SINGLE & MULTI AGENT Azure Functions, Azure Databricks, Retail IQ Agent, and Databricks Genie](https://github.com/VinothInnovationHub/enterprise-ai-solutions)
+- [Copilot Studio, Agentic-AI, MCP, Azure AI foundry,Single & Multi Agent, Azure Functions, Azure Databricks, Retail IQ Agent, and Databricks Genie](https://github.com/VinothInnovationHub/enterprise-ai-solutions)
 
 ### Microsoft 365 and SharePoint
 
